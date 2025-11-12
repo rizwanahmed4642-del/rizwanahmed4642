@@ -1,4 +1,4 @@
-![logo](https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/Rizwan%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Rizwan Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Germany</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/ab.gif">
