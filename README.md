@@ -1,30 +1,82 @@
-![logo](https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/Rizwan%20banner.png)
-<h1 align="center">Hi 👋, I'm Rizwan Ahmed</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/ab.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanahmed4642&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanahmed4642" /> </p>
+# 🧑‍💻 Rizwan Ahmed  
+**Software Engineer | .NET Backend | Azure | Business Central | Angular**
 
-- 👨‍💻I'm currently learning **Research in Computer & Systems Engineering**
+📍 Munich, Germany  
+📧 [rizwanahmed4642@gmail.com](mailto:rizwanahmed4642@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rizwan-ahmed-784706184/) | [GitHub](https://github.com/RizwanAhmed4642)  
 
-- 💬 Ask me about **Asp.Net core,Ms SQL Server**
+---
 
-- 📫 How to reach me **rizwanahmed4642@gmail.com,(+49)15734834668**
+## 🚀 About Me  
+I’m a **Software Engineer** with over **4 years of hands-on experience** in developing **enterprise-grade applications** using **C#, .NET 8, ASP.NET Core, Angular, MS SQL Server**, and **Azure**.  
+I have worked extensively on **ERP integrations (Microsoft Dynamics 365 Business Central)** and **healthcare software systems**, focusing on clean architecture, scalability, and performance optimization.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17zU9XXViAKx6K1SzUjmoYHEoG6gwZeTC/view?usp=sharing](https://drive.google.com/file/d/17zU9XXViAKx6K1SzUjmoYHEoG6gwZeTC/view?usp=sharing)
+🔹 Skilled in designing and developing REST APIs, microservices, and Azure-based cloud integrations.  
+🔹 Experienced with AL programming and extension development for Microsoft Dynamics 365 BC.  
+🔹 Enthusiastic about learning new technologies, clean code, and agile collaboration.
 
-- ⚡ Fun fact **i am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizwan-ahmed-784706184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwan-ahmed-784706184/" height="30" width="40" /></a>
-<a href="https://fb.com/rizwanahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rizwanahmed" height="30" width="40" /></a>
-</p>
+## 🧩 Tech Stack
+**Languages:** C#, JavaScript, AL  
+**Frameworks:** .NET 8, ASP.NET Core, Angular, Entity Framework, LINQ  
+**Database:** MS SQL Server, Azure SQL  
+**Cloud:** Microsoft Azure, Azure DevOps (CI/CD), AWS  
+**Tools:** Docker, Git, Jira, Visual Studio, VS Code  
+**Architecture:** Clean Architecture, MVC/MVVM, Microservices  
+**Other:** OData Services, Business Central Integration, Pandas, NumPy  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanahmed4642&show_icons=true&locale=en&layout=compact" alt="rizwanahmed4642" /></p>
+## 💼 Professional Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanahmed4642&show_icons=true&locale=en" alt="rizwanahmed4642" /></p>
+### Software Engineer – Primary & Secondary Healthcare Department *(Jan 2022 – Apr 2025)*  
+- Built **Hospital Management System** using Angular, .NET 8, and MS SQL.  
+- Developed and deployed **Biometric Attendance System** with ASP.NET Core API and AWS Cloud.  
+- Led migration from **Dynamics NAV 2018 → Business Central**, implementing custom AL extensions.  
+- Enhanced real-time patient and billing workflows with REST API integration.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanahmed4642&" alt="rizwanahmed4642" /></p>
+### Junior Software Engineer – Absolute Solution *(Jan 2021 – Dec 2021)*  
+- Upgraded legacy ASP.NET projects to **MVC 5** and improved slot-booking systems.  
+- Integrated RDLC Reports, iTextSharp, and third-party APIs for better user experience.
+
+### Associate Software Engineer – 2b Vision Technologies *(Jan 2019 – Dec 2020)*  
+- Worked on **banking systems** (UBPS, EBPS, REMS) for major clients in Pakistan.  
+- Developed backend Web APIs with **OAuth-based authentication** and high-performance SQL logic.  
+
+---
+
+## 🎓 Education  
+🎓 **M.Sc. Computer and Systems Engineering** – Technical University Ilmenau, Germany *(Expected Apr 2027)*  
+🎓 **BS Computer Science** – Lahore Garrison University, Pakistan *(2019)*  
+
+---
+
+## 🏆 Certifications  
+- **Microsoft Certified: Azure Database Administrator Associate (DP-300)**  
+- **ASP.NET Core / MVC (EVS Training Institute)**  
+
+---
+
+## 🌐 Languages  
+- **English:** C1  
+- **German:** A2  
+
+---
+
+## 📊 GitHub Stats  
+
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizwanAhmed4642&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAhmed4642&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Currently Exploring
+- Azure Functions and Serverless APIs  
+- AI-powered software development using LangChain and OpenAI APIs  
+- ERP extensions and data analytics with AL + .NET integration  
+
+---
+
+## 💡 Fun Fact  
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
