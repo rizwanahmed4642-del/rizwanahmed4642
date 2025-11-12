@@ -1,4 +1,4 @@
-![logo](https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/Rizwan%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Rizwan Ahmed</h1>
 <h3 align="center">A passionate full stack developer from Germany</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/RizwanAhmed4642/RizwanAhmed4642/blob/main/ab.gif">
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Asp.Net core,Ms SQL Server**
 
-- 📫 How to reach me **rizwanahmed4642@gmail.com,(+49)15734834668**
+- 📫 How to reach me **rizwanahmed4642@gmail.com,(+49)17680548824**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17zU9XXViAKx6K1SzUjmoYHEoG6gwZeTC/view?usp=sharing](https://drive.google.com/file/d/17zU9XXViAKx6K1SzUjmoYHEoG6gwZeTC/view?usp=sharing)
 
